@@ -1,0 +1,29 @@
+h2 {
+    font-family: 'Charmonman', cursive;
+    text-align: center;
+}
+
+
+p {
+    font-family: 'Roboto', sans-serif;
+     line-height: 1.5;
+}
+
+.caja1 {
+    background-color: blue;
+}
+
+.caja2 {
+    background-color: #118ab2;
+    background-image: linear-gradient(319deg, #118ab2 0%, #06d6a0 37%, #ffd166 100%);
+    
+}    
+
+.caja3 {
+background-image: url(./fondito4.jpg);
+}
+
+
+.caja4 {
+   background-image: url(./4.4.jpg);
+}
